@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rw,g=,o=rwx hello
+touch 8-James_Bond
