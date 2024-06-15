@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan --block-size=K --time-style=long-iso
+ls -na
